@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-# Using Library Dio
+# Using Library
 - [Networking: Dio](https://pub.dev/packages/dio)
 - [State Management: Bloc](https://pub.dev/packages/flutter_bloc)
 
