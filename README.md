@@ -1,4 +1,4 @@
-# flutter_infinite_scroll
+# Flutter Infinite Scroll
 
 A new Flutter project.
 
